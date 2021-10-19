@@ -1,0 +1,44 @@
+[
+    {
+        "id": 11,
+        "name": "Dr. Bari",
+        "dept": "Cardiology Specialist",
+        "details": "Dr. Bari obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
+        "img": "./docImages/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Dr. Sheldon",
+        "dept": "Internal Medicine",
+        "details": "Sheldon obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
+        "img": "./docImages/12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Dr. Shaun Murphy",
+        "dept": "Surgery",
+        "details": "Murphy obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
+        "img": "./docImages/13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Dr. Nathan Buchanan",
+        "dept": "Pathology",
+        "details": "Nate obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
+        "img": "./docImages/14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Dr. Neil Melendez",
+        "dept": "Laboratory",
+        "details": "Melendez obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
+        "img": "./docImages/15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Dr. Lia Rose",
+        "dept": "Neurology",
+        "details": "Rose obtained her undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
+        "img": "./docImages/16.jpg"
+    }
+]
