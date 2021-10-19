@@ -2,7 +2,7 @@
     {
         "id": 11,
         "name": "Dr. Bari",
-        "dept": "Cardiology Specialist",
+        "dept": "Cardiac Specialist",
         "details": "Dr. Bari obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
         "img": "./docImages/11.jpg"
     },
