@@ -15,14 +15,14 @@
     },
     {
         "id": 13,
-        "name": "Dr. Shaun Murphy",
+        "name": "Dr. Murphy",
         "dept": "Surgery",
         "details": "Murphy obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
         "img": "./docImages/13.jpg"
     },
     {
         "id": 14,
-        "name": "Dr. Nathan Buchanan",
+        "name": "Dr. Buchanan",
         "dept": "Pathology",
         "details": "Nate obtained his undergraduate degree in Biomedical Engineering at Tulane University prior to attending St George's University School of Medicine",
         "img": "./docImages/14.jpg"
